@@ -1,5 +1,2 @@
 bcbc
-ddd
-fff
 
-sss
